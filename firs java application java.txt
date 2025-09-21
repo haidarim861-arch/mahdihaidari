@@ -1,0 +1,7 @@
+public class Welcome{
+public static void main(string[]args){
+System.out.println("this is the first java program");
+System.out.println("this is second message inside this program");
+ 
+}
+}
